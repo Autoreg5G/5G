@@ -1,0 +1,2 @@
+Email:dr4ads@gmail.com,Password:123456asdasd,License Key:123X321,Hardware ID:0xd072a1e04558,MAC Address:d0:72:a1:e0:45:58
+Email:user@example.com,Password:password123,License Key:abcD1234,Hardware ID:0xd072a1e04559,MAC Address:d0:72:a1:e0:45:59
